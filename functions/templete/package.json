@@ -1,0 +1,14 @@
+{
+  "name": "nmv.backend.login-auth",
+  "version": "1.0.0",
+  "description": "新版歌曲投票站后端之login-auth，登录验证获取token",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JupiterJun",
+  "license": "ISC",
+  "dependencies": {
+    "@cloudbase/node-sdk": "^2.5.0"
+  }
+}
